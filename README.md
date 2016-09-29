@@ -1,7 +1,7 @@
 # first attempt was tricky
 
 **Authors**
--Amadi Allela
+-Amadi Allela, [Sospeter] (https://github.com/sostundra)
 
 **Technologies**
 -brackets
